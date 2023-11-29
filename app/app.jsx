@@ -1,3 +1,4 @@
+const ReactDOM = require("react-dom/client");
 import * as React from 'react';
 import Button from '@mui/material/Button';
 
